@@ -97,7 +97,7 @@
 
 ## Fine tuning моделей
 
-Возможно дообучение и fine tuning предобученных русских моделей. Ознакомиться с полной инструкцией по обучению моделей можно на [официальном GitHub репозитории](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch). 
+Возможно дообучение и fine tuning предобученных русских моделей. Ознакомиться с полной инструкцией по обучению моделей можно в [официальном GitHub репозитории](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch). 
 
 
 
