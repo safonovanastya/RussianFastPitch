@@ -44,6 +44,8 @@
    
    Либо воспользоваться кодом в тетрадке jupyter notebook `notebooks/FastPitch_voice_modification_custom.ipynb`
 
+Примеры генерации фраз по интонационным конструкциям Брызгоновой можно найти в папке `audio`.
+
 
 ## Предобученные модели
 ### FastPitch
