@@ -42,7 +42,7 @@
    python ../inference.py --cuda --fastpitch ../output_fastpitch/FastPitch_checkpoint_1000.pt --waveglow ../output_waveglow/checkpoint_WaveGlow_450.pt --wn-channels 256 --p-arpabet 0.0 -i phrases/text.txt -o ../output/modified_ik4/ --pitch-transform-custom 4
    ```
    
-   Либо воспользоваться jupyter notebook `notebooks/FastPitch_voice_modification_custom.ipynb`
+   Либо воспользоваться кодом в тетрадке jupyter notebook `notebooks/FastPitch_voice_modification_custom.ipynb`
 
 
 ## Предобученные модели
