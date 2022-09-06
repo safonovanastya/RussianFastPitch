@@ -73,7 +73,7 @@ The FastPitch model was trained on [RUSLAN](https://ruslan-corpus.github.io/) da
 | RUSLAN (russian)      | 2.79  |  2.51 |  2.43 |  2.40 |  2.38 |
 | LJSpeech (english)    | 3.37  |  2.88 |  2.78 |  2.71 |  2.68 |
 
-To load pre-trained FastPitch model:
+To load Russian pre-trained FastPitch model:
 
    ```bash
    bash scripts/download_fastpitch.sh
@@ -88,7 +88,7 @@ The WaveGlow model was trained on [RUSLAN](https://ruslan-corpus.github.io/) dat
 | RUSLAN (russian)      | -4.03 | -6.91 |  -7.03 |
 | LJSpeech (english)    | -4.46 | -5.93 |  -5.98 |
 
-To load pre-trained WaveGlow model:
+To load Russian pre-trained WaveGlow model:
 
    ```bash
    bash scripts/download_waveglow.sh
