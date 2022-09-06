@@ -1,8 +1,9 @@
 # Prosody Controllable Text-To-Speech Model for Russian (FastPitch and WaveGlow with post-processing)
 The repository provides a theoretical description of the work and the following code with instructions for generating phrases with a given intonation construction by E.A. Bryzgunova on pre-trained Russian FastPitch and WaveGlow models.
 
-[The original FastPitch code created by NVIDIA developers](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch)
 
+
+Table Of Contents: 
 [About the work](##-1.-about-the-work)
 
 [How to run the code](##-2.-how-to-run-the-code)
