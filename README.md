@@ -4,8 +4,11 @@ The repository provides a theoretical description of the work and the following 
 [The original FastPitch code created by NVIDIA developers](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch)
 
 [About the work](##-1.-about-the-work)
+
 [How to run the code](##-2.-how-to-run-the-code)
+
 [License and Copyright](##-3.-license-and-copyright)
+
 [About me](##-4.-about-me)
 
 ---------------------------------------------------------------------
