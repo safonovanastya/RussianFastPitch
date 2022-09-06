@@ -125,6 +125,7 @@ Everything else (including the post-processing script) is licensed under the [MI
 
 # About me
 Anastasia Safonova, an.saphonova@gmail.com 
+
 The project was made like a graduate project (NRU HSE, "Computational Linguistics" master program) under the supervision of Mikhail Kudinov.
 
 2022
