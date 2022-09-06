@@ -1,5 +1,5 @@
 # Prosody Controllable Text-To-Speech Model for Russian (FastPitch and WaveGlow with post-processing)
-The repository provides a theoretical description of the work and the relevant code with instructions for generating phrases with a specific intonation construction (as per the classification by E.A. Bryzgunova) using pre-trained Russian FastPitch and WaveGlow models.
+The repository provides a theoretical description of the work and the relevant code with instructions for generating phrases with a specific intonation construction (as per the classification by E.A. Bryzgunova) using pre-trained Russian FastPitch and WaveGlow models and post-processing.
 
 
 
