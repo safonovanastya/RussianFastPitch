@@ -5,29 +5,26 @@ The repository provides a theoretical description of the work and the following 
 
 Table Of Contents: 
 
-[About the work](##-1.-about-the-work)
+[About the work](#-1.-about-the-work)
 
-[How to run the code](##-2.-how-to-run-the-code)
+[How to run the code](#-2.-how-to-run-the-code)
 
-[License and Copyright](##-3.-license-and-copyright)
+[License and Copyright](#-3.-license-and-copyright)
 
-[About me](##-4.-about-me)
+[About me](#-4.-about-me)
 
 ---------------------------------------------------------------------
-## 1. About the work
+# 1. About the work
 
 
-## 2. How to run the code
+# 2. How to run the code
 
 ### Requirements
 
 Technical requirements for launching speech generation or training a FastPitch model: 
 * [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker)
 * [PyTorch 21.05-py3 NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch) container or newer
-* supported GPUs:
-** [NVIDIA Volta architecture](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/)
-** [NVIDIA Turing architecture](https://www.nvidia.com/ru-ru/geforce/turing/)
-** [NVIDIA Ampere architecture](https://www.nvidia.com/en-us/data-center/ampere-architecture/)
+* supported GPUs: [NVIDIA Volta architecture](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/); [NVIDIA Turing architecture](https://www.nvidia.com/ru-ru/geforce/turing/); [NVIDIA Ampere architecture](https://www.nvidia.com/en-us/data-center/ampere-architecture/)
 
 ### Instructions for generating phrases with a specified intonation construction
 
@@ -120,13 +117,13 @@ One can fine-tune pre-trained russian models. The full instructions for training
 
 
 
-## 3. License and Copyright
+# 3. License and Copyright
 All the rights to the FastPitch and WaveGlow code belong to the [respective authors from NVIDIA](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch). Minimal changes were made to adapt the existing code to the Russian data by me.
 All the rights to the data belong to the respective authors: [RUSLAN](https://ruslan-corpus.github.io/)
 
 Everything else (including the post-processing script) is licensed under the [MIT license](https://github.com/ftyers/fieldasr/blob/main/LICENSE.md)
 
-## 4. About me
+# 4. About me
 Anastasia Safonova, an.saphonova@gmail.com 
 The project was made like a graduate project (NRU HSE, "Computational Linguistics" master program) under the supervision of Mikhail Kudinov.
 
