@@ -5,13 +5,13 @@ The repository provides a theoretical description of the work and the following 
 
 Table Of Contents: 
 
-[About the work](#-about-the-work)
+[About the work](#about-the-work)
 
-[How to run the code](#-how-to-run-the-code)
+[How to run the code](#how-to-run-the-code)
 
-[License and Copyright](#-license-and-copyright)
+[License and Copyright](#license-and-copyright)
 
-[About me](#-about-me)
+[About me](#about-me)
 
 ---------------------------------------------------------------------
 # About the work
