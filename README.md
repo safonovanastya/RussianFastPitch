@@ -97,7 +97,7 @@ To load pre-trained WaveGlow model:
 
 ### Data
 
-The dataset [Ruslan](https://ruslan-corpus.github.io/) was used to train TTS models. Text transcripts are stored in the folder `filelists`. In `ruslan_train.txt` and `ruslan_val.txt` files can be find lists of all wav files and its' transcripts divided into training and validation samples. There are the same information with an additional reference to the c pitch files (which can be obtained after data preprocessing) in `ruslan_pitch_train.txt` and `ruslan_pitch_val.txt` files. The `short_ruslan_train.txt`, `short_ruslan_val.txt`, `short_pitch_ruslan_train.txt` and `short_pitch_ruslan_val.txt` files contain cuted audio lists with transcripts (all those audio whose transcript length is less than 200 characters) for faster training of the model.
+The dataset [Ruslan](https://ruslan-corpus.github.io/) was used to train TTS models. Text transcripts are stored in the folder `filelists`. The lists of all wav files and its' transcripts divided into training and validation samples can be found in `ruslan_train.txt` and `ruslan_val.txt` files. There are the same information with an additional reference to the pitch files (which can be obtained after data preprocessing) in `ruslan_pitch_train.txt` and `ruslan_pitch_val.txt` files. The `short_ruslan_train.txt`, `short_ruslan_val.txt`, `short_pitch_ruslan_train.txt` and `short_pitch_ruslan_val.txt` files contain cuted audio lists with transcripts (all those audio whose transcript length is less than 200 characters) for faster training of the model.
 
 Download audio-data:
 
