@@ -1,10 +1,11 @@
 # Модель генерации речи для русского языка с возможностью контроля просодии
 
-[About the work](#1. About the work)
-[How to run the code](#2. How to run the code)
+[About the work](#-1.-about-the-work)
 
-#1. About the work
-#2. How to run the code
+[How to run the code](#-2.-how-to-run-the-code)
+
+# 1. About the work
+# 2. How to run the code
 
 Репозиторий предоставляет код и инструкцию по генерации фраз с заданной интонационной конструкцией по Е.А. Брызгуновой на предобученных русских моделях FastPitch и WaveGlow.
 
