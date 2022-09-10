@@ -126,7 +126,7 @@ Technical requirements for launching speech generation or training a FastPitch m
 * [PyTorch 21.05-py3 NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch) container or newer
 * supported GPUs: [NVIDIA Volta architecture](https://www.nvidia.com/en-us/data-center/volta-gpu-architecture/); [NVIDIA Turing architecture](https://www.nvidia.com/ru-ru/geforce/turing/); [NVIDIA Ampere architecture](https://www.nvidia.com/en-us/data-center/ampere-architecture/)
 
-### Instructions for generating phrases with a specified intonation construction
+### Manual for generating phrases with a specified intonation construction
 
 In order to generate a phrase with the necessary specified IC (intonation construction), you need to follow several steps:
 
